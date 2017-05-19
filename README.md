@@ -12,6 +12,7 @@ This extension provides basic functions for all vianetz Magento extensions.
 Requirements
 ------------
 - PHP >= 5.3.6
+- Magento >= 1.6.x
 
 Frequently Asked Questions
 --------------------------
