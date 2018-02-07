@@ -7,18 +7,18 @@
     "vianetz"
   ],
   "homepage": "http://www.vianetz.com",
-  "license": "free",
+  "license": "GPL-3.0-or-later",
   "authors": [
     {
       "name": "Christoph Massmann",
       "email": "c.massmann@vianetz.com",
-      "homepage": "http://www.vianetz.com",
+      "homepage": "https://www.vianetz.com",
       "role": "Developer"
     }
   ],
   "support": {
     "email": "support@vianetz.com",
-    "faq": "http://www.vianetz.com/en/magento-faq"
+    "faq": "https://www.vianetz.com/en/magento-faq"
   },
   "autoload": {
     "files": [
