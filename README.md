@@ -15,17 +15,17 @@ Requirements
 
 Frequently Asked Questions
 --------------------------
-Please find the Frequently Asked Questions on our website www.vianetz.com/en/faq.
+Please find the Frequently Asked Questions on our website [vianetz.com/en/faq](https://www.vianetz.com/en/faq).
 
 Support
 -------
 If you have any issues or suggestions with this extension, please do not hesitate to
-contact me at https://www.vianetz.com/en/contacts or support@vianetz.com.
+contact me at [vianetz.com/en/contacts](https://www.vianetz.com/en/contacts) or [support@vianetz.com](mailto:support@vianetz.com).
 
 Developer
 ---------
 Christoph Massmann
-[http://www.vianetz.com](http://www.vianetz.com)
+[www.vianetz.com](https://www.vianetz.com)
 [@vianetz](https://twitter.com/vianetz)
 
 Licence
@@ -36,6 +36,6 @@ See also LICENSE file.
 
 Copyright
 ---------
-(c) 2008-17 vianetz
+(c) 2008-18 vianetz
 
-This Library uses Semantic Versioning - please find more information at http://semver.org.
+This Magento Extension uses Semantic Versioning - please find more information at [semver.org](http://semver.org).
