@@ -3,7 +3,7 @@ Vianetz Core Extension
 
 Facts
 -----
-- Version: 1.0.1
+- Version: 1.0.2
 - Extension Key: ``vianetz/module-core``
 
 Description
