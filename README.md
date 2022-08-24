@@ -3,7 +3,8 @@ Vianetz Core Extension
 
 Facts
 -----
-- version: 1.0.0
+- Version: 1.0.2
+- Extension Key: ``vianetz/module-core``
 
 Description
 -----------
@@ -30,12 +31,10 @@ Christoph Massmann
 
 Licence
 -------
-[GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html)
-
-See also LICENSE file.
+[GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html) (see also ``LICENSE`` file)
 
 Copyright
 ---------
-(c) 2008-18 vianetz
+(c) since 2008 vianetz
 
 This Magento Extension uses Semantic Versioning - please find more information at [semver.org](http://semver.org).
