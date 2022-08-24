@@ -11,7 +11,7 @@
   "authors": [
     {
       "name": "Christoph Massmann",
-      "email": "c.massmann@vianetz.com",
+      "email": "cm@vianetz.com",
       "homepage": "https://www.vianetz.com",
       "role": "Developer"
     }
@@ -29,7 +29,7 @@
     }
   },
   "require": {
-    "php": "^5.6|^7",
+    "php": "^5.6|^7|^8",
     "magento/framework": "*"
   }
 }
